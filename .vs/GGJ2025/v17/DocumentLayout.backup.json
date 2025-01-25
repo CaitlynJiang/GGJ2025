@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\UnityProj\\GGJ2025\\GGJ2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|d:\\unityproj\\ggj2025\\ggj2025\\assets\\scripts\\strawlrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|d:\\unityproj\\ggj2025\\ggj2025\\assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\scripts\\strawlrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\strawlrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,19 +31,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StrawLRController.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\StrawLRController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StrawLRController.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\StrawLRController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StrawLRController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCMAAABKAAAAAAAAAA==",
+              "Title": "ChargeBarController.cs",
+              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\ChargeBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChargeBarController.cs",
+              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\ChargeBarController.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\ChargeBarController.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T17:19:01.12Z",
+              "WhenOpened": "2025-01-25T18:26:06.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StrawLRController.cs",
+              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\StrawLRController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StrawLRController.cs",
+              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\StrawLRController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StrawLRController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T17:19:01.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Straw.cs",
               "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\Straw.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Straw.cs",
@@ -50,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
