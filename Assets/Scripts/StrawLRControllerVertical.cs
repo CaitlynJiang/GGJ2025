@@ -26,8 +26,6 @@ public class StrawLRControllerVertical : MonoBehaviour
         float y = stopYMovement ? frozenYPosition :
             (amplitude * Mathf.Sin(Time.time * y_speed) + startPosition.y);
 
-        //amplitude = 11.1f;
-
         transform.position = new Vector3(startPosition.x, y, transform.position.z);
     }
 }

@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{85065354-1E29-3EA4-E262-0643F03DBD3C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StrawLRController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StrawLRControllerVertical.cs">
     <Files>
       <File FileName="Assets/Scripts/StrawLRControllerVertical.cs" Line="18" Column="6" />
-      <File FileName="Assets/Scripts/StrawLRController.cs" Line="29" Column="43" />
+      <File FileName="Assets/Scripts/StrawLRController.cs" Line="49" Column="62" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +10,7 @@
           <Node name="GGJ2025" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="StrawLRController.cs" selected="True" />
+                <Node name="StrawLRControllerVertical.cs" selected="True" />
               </Node>
             </Node>
           </Node>
