@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|d:\\unityproj\\ggj2025\\ggj2025\\assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PressBar.cs",
               "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\PressBar.cs",
               "RelativeToolTip": "Assets\\Scripts\\PressBar.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T15:49:20.41Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ChargeBarController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:45:03.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T15:45:03.84Z"
             },
             {
               "$type": "Document",
