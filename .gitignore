@@ -27,3 +27,7 @@
 *.apk
 *.unitypackage
 .DS_Store
+"Usersettings" 
+.vs/GGJ2025/v17/DocumentLayout.backup.json
+.vs/GGJ2025/v17/.suo
+.vs/GGJ2025/v17/DocumentLayout.json

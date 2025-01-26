@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "F:\\Unity\\2025GGJ\\GGJ2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|F:\\Unity\\2025GGJ\\GGJ2025\\assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|f:\\unity\\2025ggj\\ggj2025\\assets\\book-page curl\\scripts\\bookraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\bookraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|f:\\unity\\2025ggj\\ggj2025\\assets\\book-page curl\\scripts\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|F:\\Unity\\2025GGJ\\GGJ2025\\assets\\book-page curl\\scripts\\autoflip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\autoflip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|F:\\Unity\\2025GGJ\\GGJ2025\\assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookRaw.cs",
-              "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\BookRaw.cs",
-              "RelativeDocumentMoniker": "Assets\\Book-Page Curl\\scripts\\BookRaw.cs",
-              "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\BookRaw.cs",
-              "RelativeToolTip": "Assets\\Book-Page Curl\\scripts\\BookRaw.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAADwvwgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T19:39:59.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Flip.cs",
               "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
               "RelativeDocumentMoniker": "Assets\\Book-Page Curl\\scripts\\Flip.cs",
               "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
               "RelativeToolTip": "Assets\\Book-Page Curl\\scripts\\Flip.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T18:07:50.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T18:07:50.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AutoFlip.cs",
               "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\AutoFlip.cs",
               "RelativeDocumentMoniker": "Assets\\Book-Page Curl\\scripts\\AutoFlip.cs",
               "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\AutoFlip.cs",
               "RelativeToolTip": "Assets\\Book-Page Curl\\scripts\\AutoFlip.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAAAAMAAAARAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T16:45:45.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T16:45:45.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Book.cs",
               "RelativeDocumentMoniker": "Assets\\Book-Page Curl\\scripts\\Book.cs",
               "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Book.cs",
               "RelativeToolTip": "Assets\\Book-Page Curl\\scripts\\Book.cs",
-              "ViewState": "AQIAABMBAAAAAAAAAAAswB8BAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T16:45:37.701Z",
               "EditorCaption": ""
