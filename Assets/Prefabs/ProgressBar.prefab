@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5631786531080355213}
   - component: {fileID: 6763474700631781727}
-  - component: {fileID: 7879246709533265617}
   m_Layer: 0
   m_Name: ProgressBar
   m_TagString: Untagged
@@ -85,22 +84,3 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7879246709533265617
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7789053274495954437}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf35781502f386e44aa4e953d5eec769, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  progressSquarePrefab: {fileID: 847496853650470426, guid: 0b90fa7b15040e94690ca43871c7cef4, type: 3}
-  progressBar: {fileID: 5631786531080355213}
-  spacePressThreshold: 2
-  resetTime: 0.5
-  squareInitialPosition: {x: 0, y: -0.5, z: 0}
-  squareSize: {x: 1, y: 0.02, z: 1}
-  ySpacing: 0.02
