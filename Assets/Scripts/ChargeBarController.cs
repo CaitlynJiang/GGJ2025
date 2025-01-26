@@ -7,6 +7,8 @@ public class ChargeBarController : MonoBehaviour
     public GameObject progressSquarePrefab;  // 进度方块预设体
     public Transform progressBar;            // 进度条容器
 
+    public AudioSource Suck;
+
     [Header("Progress Settings")]
     public float spacePressThreshold = 5;    // 按下多少次 space 增加一格进度
     public float resetTime = 0.5f;           // 超过时间限制后下降一格
@@ -20,11 +22,17 @@ public class ChargeBarController : MonoBehaviour
     private float lastPressTime = 0f;        // 上次按下时间
     public List<GameObject> progressSquares = new List<GameObject>(); // 已生成的进度方块
 
+    /*void Start()
+    {
+        Suck = GetComponent<AudioSource>();
+    }*/
+
     void Update()
     {
         // 检测按下 space 键
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            PlayAudio();
             pressCount++;
 
             // 计算最后一次按下的时间
@@ -62,5 +70,13 @@ public class ChargeBarController : MonoBehaviour
         GameObject squareToRemove = progressSquares[progressSquares.Count - 1]; // 获取最后一个进度方块
         progressSquares.RemoveAt(progressSquares.Count - 1);  // 从列表中移除它
         Destroy(squareToRemove);  // 销毁方块
+    }
+
+    private void PlayAudio()
+    {
+        if (progressSquares.Count == 0)
+        {
+            Suck.Play();
+        }
     }
 }
