@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityProj\\GGJ2025\\GGJ2025\\",
+  "WorkspaceRootPath": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|c:\\users\\anlan\\unity project repo\\ggj2025\\ggj2025\\assets\\scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|c:\\users\\anlan\\unity project repo\\ggj2025\\ggj2025\\assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|d:\\unityproj\\ggj2025\\ggj2025\\assets\\scripts\\sucktostraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\assets\\scripts\\sucktostraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sucktostraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\assets\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\scripts\\pressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\assets\\scripts\\pressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\scripts\\suckbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\assets\\scripts\\suckbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\suckbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +38,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "SceneManagerScript.cs",
+              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SceneManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManagerScript.cs",
+              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SceneManagerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManagerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:27:35.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SceneSwitcher.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SceneSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SceneSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneSwitcher.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SceneSwitcher.cs",
+              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SceneSwitcher.cs",
               "RelativeToolTip": "Assets\\Scripts\\SceneSwitcher.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,11 +71,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PressBar.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\PressBar.cs",
+              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\PressBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PressBar.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\PressBar.cs",
+              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\PressBar.cs",
               "RelativeToolTip": "Assets\\Scripts\\PressBar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ChargeBarController.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\ChargeBarController.cs",
+              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\ChargeBarController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChargeBarController.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\ChargeBarController.cs",
+              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\ChargeBarController.cs",
               "RelativeToolTip": "Assets\\Scripts\\ChargeBarController.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,24 +96,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SuckToStraw.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckToStraw.cs",
+              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckToStraw.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SuckToStraw.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckToStraw.cs",
+              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckToStraw.cs",
               "RelativeToolTip": "Assets\\Scripts\\SuckToStraw.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T03:54:04.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T03:54:04.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SuckBubble.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckBubble.cs",
+              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckBubble.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SuckBubble.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckBubble.cs",
+              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckBubble.cs",
               "RelativeToolTip": "Assets\\Scripts\\SuckBubble.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwDcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Flip.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
+              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
               "RelativeDocumentMoniker": "Assets\\Book-Page Curl\\scripts\\Flip.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
+              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
               "RelativeToolTip": "Assets\\Book-Page Curl\\scripts\\Flip.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
