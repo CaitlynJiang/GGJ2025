@@ -26,7 +26,7 @@ public class Flip : MonoBehaviour {
 	}
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space)) // 监听空格键
+        if (Input.GetKeyDown(KeyCode.A)) // 监听空格键
         {
             FlipRightPage();
         }
