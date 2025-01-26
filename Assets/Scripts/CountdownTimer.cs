@@ -42,5 +42,6 @@ public class CountdownTimer : MonoBehaviour
     void OnCountdownEnd()
     {
         Debug.Log("Time Over!");
+        GetComponent<GameManager>().lose();
     }
 }

@@ -6,6 +6,8 @@ using UnityEngine;
 public class BubbleMaster : MonoBehaviour
 {
     public int bobbaLeft;
+    public delegate void BubbleFinished();
+    public static event BubbleFinished bubbleFinished;
     // Start is called before the first frame update
     void Awake()
     {
@@ -25,6 +27,7 @@ public class BubbleMaster : MonoBehaviour
         print("bobba destroyed, " + bobbaLeft + "left");
         if (bobbaLeft <= 0)
         {
+            bubbleFinished?.Invoke();
             print("win");
         }
     }

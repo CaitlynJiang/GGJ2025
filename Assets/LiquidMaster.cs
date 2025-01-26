@@ -6,6 +6,8 @@ public class LiquidMaster : MonoBehaviour
 {
     public int liquidLeft;
     // Start is called before the first frame update
+    public delegate void LiquidLeft();
+    public static event LiquidLeft liquidLeftEvent;
     void Awake()
     {
         BubbleLiquidDespawn.liquidSucked += decreaseLiquid;
@@ -22,8 +24,9 @@ public class LiquidMaster : MonoBehaviour
     {
         liquidLeft -= 2;
         print("liquid destroyed, " + liquidLeft + "ml left");
-        if (liquidLeft <= 10)
+        if (liquidLeft <= 5)
         {
+            liquidLeftEvent?.Invoke();
             print("lose! bobba still left");
         }
     }

@@ -24,13 +24,7 @@ public class Flip : MonoBehaviour {
             StartFlipping();
         ControledBook.OnFlip.AddListener(new UnityEngine.Events.UnityAction(PageFlipped));
 	}
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.A)) // 监听空格键
-        {
-            FlipRightPage();
-        }
-    }
+
     void PageFlipped()
     {
         isFlipping = false;
@@ -133,7 +127,7 @@ public class Flip : MonoBehaviour {
         }
         ControledBook.ReleasePage();
 
-        SceneManager.LoadScene("TestLevel2");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
     IEnumerator FlipLTR(float xc, float xl, float h, float frameTime, float dx)
     {

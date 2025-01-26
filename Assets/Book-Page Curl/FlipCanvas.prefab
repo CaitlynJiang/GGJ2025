@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5881392299624379850}
   - component: {fileID: 9212858855765651230}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: FlipCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

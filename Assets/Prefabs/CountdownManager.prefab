@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4037941290190103925}
   - component: {fileID: 1192390113440182088}
+  - component: {fileID: 4712982503128050069}
   m_Layer: 0
   m_Name: CountdownManager
   m_TagString: Untagged
@@ -46,3 +47,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timerText: {fileID: 0}
   countdownTime: 60
+--- !u!114 &4712982503128050069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5440169543598910078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9266164f3a5a3cb4f9045a84961b47bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bubbleAteImage: {fileID: 0}
+  bubbleLeftImage: {fileID: 0}
+  bubbleMaster: {fileID: 0}
+  flipObject: {fileID: 0}
