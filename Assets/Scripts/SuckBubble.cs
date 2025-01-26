@@ -10,7 +10,11 @@ public class SuckBubble : MonoBehaviour
     public Transform strawStart; // 吸力起点
     public Transform strawEnd; // 吸力终点
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void Update()
+    {
+        print(strawStart.position);
+    }
+    /*private void OnTriggerEnter2D(Collider2D other)
     {
         // 检查进入触发器的对象是否有指定的标签
         if (other.CompareTag("Bubble") || other.CompareTag("Liquid Particle"))
@@ -20,6 +24,8 @@ public class SuckBubble : MonoBehaviour
             {
                 // 计算吸力方向和强度
                 Vector3 suckDirection = (strawEnd.position - strawStart.position).normalized;
+                //For creating line renderer object
+                
                 float distance = Vector3.Distance(other.transform.position, strawStart.position);
                 float suckForce = chargeBarController.progressSquares.Count * baseSuckForce;
                 float currentSuckForce = suckForce * (1 - distance / suckRadius);
@@ -29,7 +35,7 @@ public class SuckBubble : MonoBehaviour
                 Debug.Log($"{other.gameObject.name} is being sucked with force {currentSuckForce}");
             }
         }
-    }
+    }*/
 
     private void OnTriggerStay2D(Collider2D other)
     {
@@ -39,7 +45,7 @@ public class SuckBubble : MonoBehaviour
             Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
-                Vector3 suckDirection = (strawEnd.position - strawStart.position).normalized;
+                Vector3 suckDirection = (other.transform.position - strawStart.position).normalized;
                 float distance = Vector3.Distance(other.transform.position, strawStart.position);
                 float suckForce = chargeBarController.progressSquares.Count * baseSuckForce;
                 float currentSuckForce = suckForce * (1 - distance / suckRadius);
