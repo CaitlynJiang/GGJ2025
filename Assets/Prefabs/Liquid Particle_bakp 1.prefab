@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 3410855458792658045}
   - component: {fileID: 5036889084903736801}
   m_Layer: 4
-  m_Name: Liquid Particle
-  m_TagString: Liquid Particle
+  m_Name: Liquid Particle_bakp 1
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
