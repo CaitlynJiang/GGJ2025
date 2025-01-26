@@ -11,8 +11,8 @@ public class Flip : MonoBehaviour {
     public int AnimationFramesCount = 40;
     bool isFlipping = false;
 
-    public Texture2D savedTexture;//
-    public RenderTexture renderTexture;
+    //public Texture2D savedTexture;//
+    //public RenderTexture renderTexture;
     // Use this for initialization
     void Start () {
         if (!ControledBook)
@@ -21,6 +21,13 @@ public class Flip : MonoBehaviour {
             StartFlipping();
         ControledBook.OnFlip.AddListener(new UnityEngine.Events.UnityAction(PageFlipped));
 	}
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space)) // 监听空格键
+        {
+            FlipRightPage();
+        }
+    }
     void PageFlipped()
     {
         isFlipping = false;
@@ -34,12 +41,6 @@ public class Flip : MonoBehaviour {
         if (isFlipping) return;
         if (ControledBook.currentPage >= ControledBook.TotalPageCount) return;
 
-        savedTexture = new Texture2D(renderTexture.width, renderTexture.height, TextureFormat.RGBA32, false);
-
-        // 将 RenderTexture 设为激活状态并读取像素
-        RenderTexture.active = renderTexture;
-        savedTexture.ReadPixels(new Rect(0, 0, renderTexture.width, renderTexture.height), 0, 0);
-        savedTexture.Apply();
 
         isFlipping = true;
         float frameTime = PageFlipTime / AnimationFramesCount;
