@@ -15,7 +15,6 @@ public class SuckOutOfStraw : MonoBehaviour
             Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
-                print("s");
                 Vector3 suckDirection = (other.transform.position - endPos.position).normalized;
                 float suckForce = chargeBarController.progressSquares.Count * baseSuckForce;
 
