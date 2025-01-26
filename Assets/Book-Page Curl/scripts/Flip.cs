@@ -11,6 +11,8 @@ public class Flip : MonoBehaviour {
     public int AnimationFramesCount = 40;
     bool isFlipping = false;
 
+    private Canvas canvas;//common canvas to disable
+
     //public Texture2D savedTexture;//
     //public RenderTexture renderTexture;
     // Use this for initialization
@@ -38,6 +40,16 @@ public class Flip : MonoBehaviour {
     }
     public void FlipRightPage()
     {
+        canvas = GameObject.Find("Canvas").GetComponent<Canvas>();
+        if (canvas != null)
+        {
+            canvas.enabled = false;
+        }
+        else
+        {
+            Debug.LogError("Canvas not found!");
+        }
+
         if (isFlipping) return;
         if (ControledBook.currentPage >= ControledBook.TotalPageCount) return;
 
