@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/TestLevel2.unity
     guid: 1b3c13a72e603b144bbbe89329d8ce4f
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/PrevLevel1.unity
     guid: 6dd7451705f1dde46bf978542f9051ba
   - enabled: 1
     path: Assets/Scenes/GeorgiaLevel2.unity
