@@ -1,24 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\",
+  "WorkspaceRootPath": "F:\\Unity\\2025GGJ\\GGJ2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|c:\\users\\anlan\\unity project repo\\ggj2025\\ggj2025\\assets\\scripts\\dragtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\assets\\scripts\\drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\assets\\scripts\\strawlrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\strawlrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\Straw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|f:\\unity\\2025ggj\\ggj2025\\assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,66 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DragTarget.cs",
-              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\DragTarget.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DragTarget.cs",
-              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\DragTarget.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DragTarget.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAUAAAA6AAAAAAAAAA==",
+              "Title": "Flip.cs",
+              "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
+              "RelativeDocumentMoniker": "Assets\\Book-Page Curl\\scripts\\Flip.cs",
+              "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
+              "RelativeToolTip": "Assets\\Book-Page Curl\\scripts\\Flip.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwBkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T21:54:55.175Z",
+              "WhenOpened": "2025-01-26T00:15:25.916Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Drag.cs",
-              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\Drag.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Drag.cs",
-              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\Drag.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Drag.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T18:38:19.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StrawLRController.cs",
-              "DocumentMoniker": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\StrawLRController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StrawLRController.cs",
-              "ToolTip": "C:\\Users\\anlan\\Unity Project Repo\\GGJ2025\\GGJ2025\\Assets\\Scripts\\StrawLRController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StrawLRController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCMAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T17:19:01.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Straw.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\Straw.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\Straw.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T15:49:39.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\PlayerController.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\PlayerController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T15:29:55.33Z"
             }
           ]
         }
