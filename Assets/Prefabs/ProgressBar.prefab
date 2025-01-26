@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.6039216, g: 0.5019608, b: 0.3529412, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -100,9 +100,9 @@ MonoBehaviour:
   progressSquarePrefab: {fileID: 847496853650470426, guid: 0b90fa7b15040e94690ca43871c7cef4, type: 3}
   progressBar: {fileID: 5631786531080355213}
   Suck: {fileID: 0}
-  spacePressThreshold: 5
-  resetTime: 0.5
-  squareInitialPosition: {x: 0, y: 0, z: 0}
-  squareSize: {x: 0.57, y: 0.05, z: 1}
+  spacePressThreshold: 1
+  resetTime: 0.4
+  squareInitialPosition: {x: 1.47, y: -1.05, z: 0}
+  squareSize: {x: 5.3, y: 0.05, z: 1}
   ySpacing: 0.05
   progressSquares: []

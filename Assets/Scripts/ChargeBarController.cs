@@ -22,10 +22,10 @@ public class ChargeBarController : MonoBehaviour
     private float lastPressTime = 0f;        // 上次按下时间
     public List<GameObject> progressSquares = new List<GameObject>(); // 已生成的进度方块
 
-    /*void Start()
+    void Start()
     {
-        Suck = GetComponent<AudioSource>();
-    }*/
+        //Suck = GetComponent<AudioSource>();
+    }
 
     void Update()
     {
