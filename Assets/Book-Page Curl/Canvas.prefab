@@ -901,8 +901,6 @@ MonoBehaviour:
   - {fileID: 8400000, guid: 2dd0dd01c31ebf54ab0b7ec3e16b05db, type: 2}
   - {fileID: 2800000, guid: e5a6703b359f14748bea50886fc2a0d1, type: 3}
   - {fileID: 8400000, guid: f69e9c14caa53ed40931a62c5fc9b852, type: 2}
-  - {fileID: 2800000, guid: e5a6703b359f14748bea50886fc2a0d1, type: 3}
-  - {fileID: 8400000, guid: 2dd0dd01c31ebf54ab0b7ec3e16b05db, type: 2}
   interactable: 1
   enableShadowEffect: 1
   currentPage: 0
