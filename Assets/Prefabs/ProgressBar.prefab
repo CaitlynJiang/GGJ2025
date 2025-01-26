@@ -102,7 +102,7 @@ MonoBehaviour:
   Suck: {fileID: 0}
   spacePressThreshold: 1
   resetTime: 0.4
-  squareInitialPosition: {x: 1.47, y: -1.05, z: 0}
+  squareInitialPosition: {x: 6.5, y: -1.05, z: 0}
   squareSize: {x: 5.3, y: 0.05, z: 1}
   ySpacing: 0.05
   progressSquares: []
