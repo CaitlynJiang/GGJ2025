@@ -18,7 +18,7 @@ public class ChargeBarController : MonoBehaviour
 
     private int pressCount = 0;              // 按下 space 的次数
     private float lastPressTime = 0f;        // 上次按下时间
-    private List<GameObject> progressSquares = new List<GameObject>(); // 已生成的进度方块
+    public List<GameObject> progressSquares = new List<GameObject>(); // 已生成的进度方块
 
     void Update()
     {
