@@ -13,7 +13,7 @@ public class SuckBubble : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         // 检查进入触发器的对象是否有指定的标签
-        if (other.CompareTag("Bubble") || other.CompareTag("LiquidParticle"))
+        if (other.CompareTag("Bubble") || other.CompareTag("Liquid Particle"))
         {
             Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
             if (rb != null)
@@ -34,7 +34,7 @@ public class SuckBubble : MonoBehaviour
     private void OnTriggerStay2D(Collider2D other)
     {
         // 确保物体在触发器内持续受到吸力
-        if (other.CompareTag("Bubble") || other.CompareTag("LiquidParticle"))
+        if (other.CompareTag("Bubble") || other.CompareTag("Liquid Particle"))
         {
             Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
             if (rb != null)

@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Boba
+  - Bubble
+  - Liquid Particle
   layers:
   - Default
   - TransparentFX
