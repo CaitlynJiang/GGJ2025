@@ -9,7 +9,7 @@ public class BubbleMaster : MonoBehaviour
     public delegate void BubbleFinished();
     public static event BubbleFinished bubbleFinished;
     // Start is called before the first frame update
-    void Awake()
+    void OnEnable()
     {
         BubbleLiquidDespawn.bubbleSucked += decreaseBobba;
         bobbaLeft = transform.childCount;
@@ -19,6 +19,11 @@ public class BubbleMaster : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void OnDisable()
+    {
+        BubbleLiquidDespawn.bubbleSucked -= decreaseBobba;
     }
 
     public void decreaseBobba()

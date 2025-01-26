@@ -8,7 +8,7 @@ public class LiquidMaster : MonoBehaviour
     // Start is called before the first frame update
     public delegate void LiquidLeft();
     public static event LiquidLeft liquidLeftEvent;
-    void Awake()
+    private void OnEnable ()
     {
         BubbleLiquidDespawn.liquidSucked += decreaseLiquid;
         liquidLeft = transform.childCount * 2;
@@ -18,6 +18,11 @@ public class LiquidMaster : MonoBehaviour
     void Update()
     {
 
+    }
+
+    private void OnDisable()
+    {
+        BubbleLiquidDespawn.liquidSucked -= decreaseLiquid;
     }
 
     public void decreaseLiquid()

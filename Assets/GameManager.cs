@@ -11,12 +11,23 @@ public class GameManager : MonoBehaviour
     public GameObject flipObject;
 
     // Start is called before the first frame update
+
+    private void OnEnable()
+    {
+        BubbleMaster.bubbleFinished += win;
+        LiquidMaster.liquidLeftEvent += lose;
+    }
+
+    private void OnDisable()
+    {
+        BubbleMaster.bubbleFinished -= win;
+        LiquidMaster.liquidLeftEvent -= lose;
+    }
     void Start()
     {
         bubbleAteImage.SetActive(false);
         bubbleLeftImage.SetActive(false);
-        BubbleMaster.bubbleFinished += win;
-        LiquidMaster.liquidLeftEvent += lose;
+        
     }
 
     // Update is called once per frame
