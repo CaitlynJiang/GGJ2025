@@ -7,7 +7,7 @@ public class BubbleMaster : MonoBehaviour
 {
     public int bobbaLeft;
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         BubbleLiquidDespawn.bubbleSucked += decreaseBobba;
         bobbaLeft = transform.childCount;
