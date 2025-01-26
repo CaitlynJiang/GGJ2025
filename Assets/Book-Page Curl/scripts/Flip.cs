@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 [RequireComponent(typeof(BookRaw))]
 public class Flip : MonoBehaviour {
     public FlipMode Mode;
@@ -131,6 +132,8 @@ public class Flip : MonoBehaviour {
             x -= dx;
         }
         ControledBook.ReleasePage();
+
+        SceneManager.LoadScene("Level2");
     }
     IEnumerator FlipLTR(float xc, float xl, float h, float frameTime, float dx)
     {
