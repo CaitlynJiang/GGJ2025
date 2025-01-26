@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityProj\\GGJ2025\\GGJ2025\\",
+  "WorkspaceRootPath": "F:\\Unity\\2025GGJ\\GGJ2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|d:\\unityproj\\ggj2025\\ggj2025\\assets\\scripts\\pressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|f:\\unity\\2025ggj\\ggj2025\\assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|d:\\unityproj\\ggj2025\\ggj2025\\assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chargebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|F:\\Unity\\2025GGJ\\GGJ2025\\assets\\book-page curl\\scripts\\bookraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\bookraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\scripts\\sucktostraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sucktostraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|F:\\Unity\\2025GGJ\\GGJ2025\\assets\\scripts\\suckoutofstraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\suckoutofstraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\scripts\\suckbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|F:\\Unity\\2025GGJ\\GGJ2025\\assets\\scripts\\suckbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\suckbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|D:\\UnityProj\\GGJ2025\\GGJ2025\\assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\book-page curl\\scripts\\flip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|F:\\Unity\\2025GGJ\\GGJ2025\\assets\\scripts\\sucktostraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85065354-1E29-3EA4-E262-0643F03DBD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sucktostraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PressBar.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\PressBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PressBar.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\PressBar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PressBar.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SuckOutOfStraw.cs",
+              "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Scripts\\SuckOutOfStraw.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SuckOutOfStraw.cs",
+              "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Scripts\\SuckOutOfStraw.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SuckOutOfStraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:49:20.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T17:28:47.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChargeBarController.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\ChargeBarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ChargeBarController.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\ChargeBarController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ChargeBarController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Title": "BookRaw.cs",
+              "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\BookRaw.cs",
+              "RelativeDocumentMoniker": "Assets\\Book-Page Curl\\scripts\\BookRaw.cs",
+              "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\BookRaw.cs",
+              "RelativeToolTip": "Assets\\Book-Page Curl\\scripts\\BookRaw.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwIYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:45:03.84Z",
+              "WhenOpened": "2025-01-26T15:28:38.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SuckToStraw.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckToStraw.cs",
+              "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Scripts\\SuckToStraw.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SuckToStraw.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckToStraw.cs",
+              "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Scripts\\SuckToStraw.cs",
               "RelativeToolTip": "Assets\\Scripts\\SuckToStraw.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAErSURBVFhHYxgFo2AUjHjACKXh4OLji/9BdO\u002BJXjD/9NPTYPrPvz9g2kTaBEwvD1\u002BOovftx7dgfVbzrcD8mwU3wfK4xGGACUoPGIC75vKTy2CXRqyNAPPNpM3AdKJBIpjmZ\u002BcH0zfe3ADT4YbhKD40mQMJGUKAjZkNTMNCYvCEQOr6VLBPnn58CuavClkFpnl4eFDiDBcYsmkA7oBTT0\u002BBsYeKBxiDfE6s7ykBgycNmEwzAcdVskEymJ9plUlS3A/9XBC9Mhrsk9//foP5qyJXkRT/QzYXwF1z8v5JsEuj1kaB\u002BR6qHmA6TCsMTLMys4Lpy68ug\u002Bl0i3SSQggXGDwhAAN7bu4Bh8TU01PB/Lvv74JpTlZOMO0g5wCmO706h0cIjIJRMApGOmBgAAD/Qnu\u002B9Arn6QAAAABJRU5ErkJggg==",
               "WhenOpened": "2025-01-26T03:54:04.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SuckBubble.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckBubble.cs",
+              "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Scripts\\SuckBubble.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SuckBubble.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Scripts\\SuckBubble.cs",
+              "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Scripts\\SuckBubble.cs",
               "RelativeToolTip": "Assets\\Scripts\\SuckBubble.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwDcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAErSURBVFhHYxgFo2AUjHjACKXh4OLji/9BdO\u002BJXjD/9NPTYPrPvz9g2kTaBEwvD1\u002BOovftx7dgfVbzrcD8mwU3wfK4xGGACUoPGIC75vKTy2CXRqyNAPPNpM3AdKJBIpjmZ\u002BcH0zfe3ADT4YbhKD40mQMJGUKAjZkNTMNCYvCEQOr6VLBPnn58CuavClkFpnl4eFDiDBcYsmkA7oBTT0\u002BBsYeKBxiDfE6s7ykBgycNmEwzAcdVskEymJ9plUlS3A/9XBC9Mhrsk9//foP5qyJXkRT/QzYXwF1z8v5JsEuj1kaB\u002BR6qHmA6TCsMTLMys4Lpy68ug\u002Bl0i3SSQggXGDwhAAN7bu4Bh8TU01PB/Lvv74JpTlZOMO0g5wCmO706h0cIjIJRMApGOmBgAAD/Qnu\u002B9Arn6QAAAABJRU5ErkJggg==",
               "WhenOpened": "2025-01-26T03:01:49.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Flip.cs",
-              "DocumentMoniker": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
+              "DocumentMoniker": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
               "RelativeDocumentMoniker": "Assets\\Book-Page Curl\\scripts\\Flip.cs",
-              "ToolTip": "D:\\UnityProj\\GGJ2025\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
+              "ToolTip": "F:\\Unity\\2025GGJ\\GGJ2025\\Assets\\Book-Page Curl\\scripts\\Flip.cs",
               "RelativeToolTip": "Assets\\Book-Page Curl\\scripts\\Flip.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAdAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T00:15:25.916Z"
+              "WhenOpened": "2025-01-26T00:15:25.916Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -133,7 +133,7 @@ public class Flip : MonoBehaviour {
         }
         ControledBook.ReleasePage();
 
-        SceneManager.LoadScene("Level2");
+        SceneManager.LoadScene("TestLevel2");
     }
     IEnumerator FlipLTR(float xc, float xl, float h, float frameTime, float dx)
     {
