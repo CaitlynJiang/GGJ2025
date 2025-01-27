@@ -6,34 +6,34 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
-      value: 05060750030358025f0c587a11270e444e161b2b7e7a25672e7d4c60bbe3326a
+      value: 5b04005e0656080f0b570e7142270844454e49792f2c76332f781c64e3b3323c
       flags: 0
     RecentlyUsedSceneGuid-1:
-      value: 555550515100580c5d5b0a7314275a4440151e737b7073647f2f4463b7b13639
+      value: 01000c555c0d5a025c0d5c261375594446164f7c2d7a7763792b4d36b3b9666f
       flags: 0
     RecentlyUsedSceneGuid-2:
-      value: 5653035f5350585a590b5d7247220d44134e4d7f2f7c75362c2f4f6bb1b6373c
+      value: 07050c5e5402080b585a5a7348225c4417154b2c757876357c7c4d61b5e26368
       flags: 0
     RecentlyUsedSceneGuid-3:
-      value: 570107515300580c0f5e5c704922074413164d7d7b7a20367c2b4863bbe46c6f
+      value: 07060450015350090f0a582646205d444516497d7c7a23647a7d4e6bb0e3633e
       flags: 0
     RecentlyUsedSceneGuid-4:
-      value: 525307055406080c5f0b5a7243210e4442151a2829707f637f70196be1e5603e
+      value: 555550515100580c5d5b0a7314275a4440151e737b7073647f2f4463b7b13639
       flags: 0
     RecentlyUsedSceneGuid-5:
       value: 020951070301510d0f5b597a42775e441516192f2a7e7267782a1e37b0e6646e
       flags: 0
     RecentlyUsedSceneGuid-6:
-      value: 525451025401595e0f08552747775d41414f41297e7b77617d714d35bbe23039
+      value: 575550535c54080e5c5e0e7513740844134f1c732d2a20602c791e6bb0e5376d
       flags: 0
     RecentlyUsedSceneGuid-7:
-      value: 01520d0755055a59080c087514200e44154f4a7c742c243129704963b3b6636a
-      flags: 0
-    RecentlyUsedSceneGuid-8:
       value: 520556545d040f585b5b0e7212755c44154e1e2b7a7e2463747c1960b5b7376f
       flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 01520d0755055a59080c087514200e44154f4a7c742c243129704963b3b6636a
+      flags: 0
     RecentlyUsedSceneGuid-9:
-      value: 575550535c54080e5c5e0e7513740844134f1c732d2a20602c791e6bb0e5376d
+      value: 525451025401595e0f08552747775d41414f41297e7b77617d714d35bbe23039
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
@@ -43,7 +43,7 @@ EditorUserSettings:
   m_VCDebugCmd: 0
   m_VCDebugOut: 0
   m_SemanticMergeMode: 2
-  m_DesiredImportWorkerCount: 8
+  m_DesiredImportWorkerCount: 6
   m_StandbyImportWorkerCount: 2
   m_IdleImportWorkerShutdownDelay: 60000
   m_VCShowFailedCheckout: 1
