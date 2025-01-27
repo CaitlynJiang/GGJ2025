@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class TextControl : MonoBehaviour
 {
@@ -20,7 +21,7 @@ public class TextControl : MonoBehaviour
         print(liquidMaster.liquidLeft);
         mlText.text = liquidMaster.liquidLeft.ToString();
         bobaText.text = bubbleMaster.bobbaLeft.ToString();
-        cupText.text = "1";
+        cupText.text = SceneManager.GetActiveScene().buildIndex.ToString();
     }
 
     private void OnEnable()
